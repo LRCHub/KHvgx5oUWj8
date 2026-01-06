@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "恋なんて",
+  "base_artist": "羊文学",
+  "createdAt": "2026-01-06T16:57:04.597455Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋なんて",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/01_恋なんて_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋なんて",
+      "artist": "竹渕慶",
+      "has_synced": true,
+      "path": "select/02_恋なんて_竹渕慶.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋なんて",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/03_恋なんて_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋なんて",
+      "artist": "Kei Takebuchi",
+      "has_synced": true,
+      "path": "select/04_恋なんて_Kei_Takebuchi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋なんて",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_01_恋なんて_羊文学.txt"
+    }
+  ]
+}
